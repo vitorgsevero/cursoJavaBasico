@@ -19,7 +19,9 @@ public class Carro {
 
 	}
 
-	public double calcularCombustivel(double km) {
+	public 
+	
+	double calcularCombustivel(double km) {
 
 		double qtdCombustivel = km / this.consumoCombustivel;
 
